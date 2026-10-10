@@ -29,5 +29,3 @@ function AppLayout() {
 }
 
 export default AppLayout;
-
-// A modern hotel management application built with React for managing cabins, bookings, guests, check-ins, payments, and hotel analytics.
